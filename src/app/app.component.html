@@ -1,0 +1,72 @@
+<h2 style="margin-left: 5%;">Visitor's Details</h2>
+
+
+<form class="left" [formGroup]='DetailsForm'>
+  <mat-form-field class="full-width">
+    <mat-label>Name </mat-label>
+    <input matInput placeholder="Johnny Desouza" formControlName="name">
+  </mat-form-field>
+
+  <!-- <mat-error *ngIf="name && name.invalid">
+    Name is required
+  </mat-error> -->
+
+  <br>
+
+  <mat-form-field class="full-width">
+    <mat-label>Email </mat-label>
+    <input matInput placeholder="Johnny@gmail.com" formControlName="email">
+  </mat-form-field>
+
+
+  <br>
+
+  <mat-form-field>
+    <mat-label>Type Of Visit</mat-label>
+    <mat-select formControlName="visit">
+      <mat-option *ngFor="let visit of visits" [value]="visit.value">
+        {{visit.viewValue}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field class="full-width">
+    <mat-label>Person To Visit </mat-label>
+    <input matInput placeholder="Sanju Samson" formControlName="personToVisit">
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field>
+    <mat-label>Date Of Entry</mat-label>
+    <input matInput [matDatepicker]="picker1" [formControl]="date" disabled>
+    <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+    <mat-datepicker #picker1></mat-datepicker>
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field>
+    <input mat-timepicker matInput type="time" placeholder="Time Of Entry" formControlName="timeOfEntry">
+  </mat-form-field>
+
+  <br>
+
+  <mat-form-field>
+    <input mat-timepicker matInput type="time" placeholder="Time Of Exit" formControlName="timeOfExit">
+  </mat-form-field>
+
+<br>
+
+
+<button mat-raised-button color="primary"  [disabled]="DetailsForm.invalid"  (click)="onAddUser(DetailsForm.value)">Submit</button>
+
+
+</form>
+
+
+
+
+

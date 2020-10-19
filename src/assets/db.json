@@ -1,0 +1,255 @@
+{
+  "user": [
+    {
+      "name": "santosh",
+      "email": "santosh@gmail.com",
+      "typeOfVisit": "Meeting",
+      "personToVisit": "Sanju",
+      "dateOfEntry": "10/7/2020",
+      "timeOfEntry": "12:12",
+      "timeOfExit": "12:13",
+      "id": "1"
+    },
+    {
+      "name": "GAUTAM",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "AAAAA",
+      "date": "2020-10-17T12:12:03.040Z",
+      "timeOfEntry": "00:00",
+      "timeOfExit": "23:59",
+      "id": "kiMzmmD"
+    },
+    {
+      "name": "Sushighrh",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Personal",
+      "personToVisit": "ssssssss",
+      "date": "2020-10-17T12:12:32.302Z",
+      "timeOfEntry": "00:00",
+      "timeOfExit": "23:01",
+      "id": "yNsBN67"
+    },
+    {
+      "name": "dddd",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "IOYOYI",
+      "date": "2020-10-17T12:22:36.411Z",
+      "timeOfEntry": "00:00",
+      "timeOfExit": "14:02",
+      "id": "gjTu0y6"
+    },
+    {
+      "name": "ergautamkurseja@gmail.com",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "SDd",
+      "date": "2020-10-17T12:28:00.961Z",
+      "timeOfEntry": "12:22",
+      "timeOfExit": "14:22",
+      "id": "uuXZcVO"
+    },
+    {
+      "name": "ergautamkurseja@gmail.com",
+      "email": "fdfdfdf",
+      "visit": "Personal",
+      "personToVisit": "sDsdS",
+      "date": "2020-10-17T12:29:42.756Z",
+      "timeOfEntry": "03:33",
+      "timeOfExit": "18:03",
+      "id": "X_FUuM7"
+    },
+    {
+      "name": "ergautamkursej",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "ASsAS",
+      "date": "",
+      "timeOfEntry": "02:13",
+      "timeOfExit": "02:13",
+      "id": "hv8CEpP"
+    },
+    {
+      "name": "aaa",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "SasA",
+      "date": [
+        null
+      ],
+      "timeOfEntry": "02:13",
+      "timeOfExit": "03:21",
+      "id": "UeDbLLN"
+    },
+    {
+      "name": "ergautamkursej",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "asaSA",
+      "date": "picker1",
+      "timeOfEntry": "05:55",
+      "timeOfExit": "03:01",
+      "id": "beslhe8"
+    },
+    {
+      "name": "Sushighrh",
+      "email": "fdfdfdf",
+      "visit": "Meeting",
+      "personToVisit": "aSasaSAs",
+      "date": {
+        "validator": null,
+        "asyncValidator": null,
+        "pristine": true,
+        "touched": false,
+        "_onDisabledChange": [],
+        "_onChange": [],
+        "_pendingValue": "2020-10-17T13:01:12.920Z",
+        "value": "2020-10-17T13:01:12.920Z",
+        "status": "VALID",
+        "errors": null,
+        "valueChanges": {
+          "_isScalar": false,
+          "observers": [],
+          "closed": false,
+          "isStopped": false,
+          "hasError": false,
+          "thrownError": null,
+          "__isAsync": false
+        },
+        "statusChanges": {
+          "_isScalar": false,
+          "observers": [],
+          "closed": false,
+          "isStopped": false,
+          "hasError": false,
+          "thrownError": null,
+          "__isAsync": false
+        }
+      },
+      "timeOfEntry": "14:22",
+      "timeOfExit": "14:22",
+      "id": "SAU0AaQ"
+    },
+    {
+      "name": "Dhiraj",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Personal",
+      "personToVisit": "sumit",
+      "date": "2020-10-17T13:02:32.472Z",
+      "timeOfEntry": "14:22",
+      "timeOfExit": "15:33",
+      "id": "YEcACLJ"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T13:05:09.999Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "tbDmATi"
+    },
+    {
+      "name": "tytry",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:43:09.393Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "eVoM5DI"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:43:21.216Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "1mS-Z7l"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:43:21.216Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "OZAYowS"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:43:21.216Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "Go2T9IC"
+    },
+    {
+      "name": "rtrte",
+      "email": "treterter@gmail.com",
+      "visit": "Meeting",
+      "personToVisit": "rterte",
+      "date": "2020-10-17T14:43:49.024Z",
+      "timeOfEntry": "14:34",
+      "timeOfExit": "04:23",
+      "id": "8FGN1Bh"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:47:49.766Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "NIZTNBB"
+    },
+    {
+      "name": "",
+      "email": "",
+      "visit": "",
+      "personToVisit": "",
+      "date": "2020-10-17T14:47:49.766Z",
+      "timeOfEntry": "",
+      "timeOfExit": "",
+      "id": "1NikyXc"
+    },
+    {
+      "name": "Sushighrh",
+      "email": "gautamkurseja@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "ddddddddddddddd",
+      "date": "2020-10-17T14:48:01.347Z",
+      "timeOfEntry": "01:00",
+      "timeOfExit": "13:02",
+      "id": "mH_PJNP"
+    },
+    {
+      "name": "dhiraj",
+      "email": "sjfs@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "zaheer",
+      "date": "2020-10-18T11:18:52.004Z",
+      "timeOfEntry": "16:54",
+      "timeOfExit": "16:54",
+      "id": "bLKOif-"
+    },
+    {
+      "name": "dhiraj Chhabria",
+      "email": "sjfs@gmail.com",
+      "visit": "Delivery",
+      "personToVisit": "zaheer",
+      "date": "2020-10-18T11:20:46.343Z",
+      "timeOfEntry": "16:56",
+      "timeOfExit": "16:56",
+      "id": "U_nIyc7"
+    }
+  ]
+}

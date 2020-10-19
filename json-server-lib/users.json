@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "name": "santosh",
+      "email": "santosh@gmail.com",
+      "typeOfVisit": "Meeting",
+      "personToVisit": "Sanju",
+      "dateOfEntry": "10/7/2020",
+      "timeOfEntry": "12:12",
+      "timeOfExit": "12:13",
+      "id": "1"
+    }
+  ]
+}
